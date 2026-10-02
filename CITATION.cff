@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Collapse, Convergence, and the Scale of the Prime-Gap Imprint on Polymer Dynamics"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    email: ruqing@hotmail.com
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+version: 1.0.0
+date-released: 2026-10-01
+doi: 10.5281/zenodo.23076433
+repository-code: https://github.com/Ruqing1963/prime-gap-imprint-collapse-and-scale
+license: MIT
+keywords:
+  - prime gaps
+  - heteropolymer collapse
+  - surrogate data
+  - sequence correlations
+  - retention scaling
+references:
+  - type: article
+    title: "Beyond the marginal distribution: prime-gap ordering imprints on a self-avoiding polymer through the small-prime end of the chain"
+    authors:
+      - family-names: Chen
+        given-names: Ruqing
+    version: "4.0"
+    doi: 10.5281/zenodo.22944122
+    year: 2026

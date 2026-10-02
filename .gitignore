@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*Notes.bib
+data/*.err
+# contact-network analyses belong to the follow-up paper (Paper 4), not to this manuscript
+scripts/contact_divisor_test.py
+scripts/contact_legendre_matsnf.py
+data/contact_divisor_results.csv
+data/legendre_snf_results.csv
+ai_studio_code*.txt
